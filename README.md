@@ -72,9 +72,9 @@ generate_cover_letter  ─────►  Tailored cover letter
 | RAG | FAISS vector search over 50 ATS best-practice documents |
 | Framework | LangChain (`StructuredTool`, `with_structured_output`) |
 | Schemas | Pydantic |
-| Monitoring | Logfire — traces, token usage, match scores per session _(planned)_ |
-| Testing | pytest — tool-call order, LLM-as-judge, out-of-scope _(planned)_ |
-| UI | Streamlit _(planned)_ |
+| Monitoring | Logfire — traces, token usage, match scores per session  |
+| Testing | pytest — tool-call order, LLM-as-judge, out-of-scope  |
+| UI | Streamlit  |
 | Packaging | uv + pyproject.toml |
 
 ---
